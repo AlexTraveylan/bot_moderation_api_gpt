@@ -1,4 +1,4 @@
-from src.app.core.format_response import formatResponse
+from src.app.core.utils.format_response import formatResponse
 
 
 def test_reformatStr():
